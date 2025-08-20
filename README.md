@@ -2,7 +2,8 @@
 
 A **feature-rich Todo application** built with **React**. This project demonstrates **advanced React patterns, state management, and performance optimizations**.
 
-🌐 **Live Demo:** *(Add your deployed link if available)*
+🌐 **Live Demo:** [https://advanced-todo-application.vercel.app/](https://advanced-todo-application.vercel.app/)
+
 
 ---
 
